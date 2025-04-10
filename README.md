@@ -8,6 +8,8 @@
 🌱 I’m currently learning<br>
 💬 Ask me about<br>⚡ Fun fact
 -->
+# 💫 About Me:
+I am a passionate Front-End Developer with over 10 years of experience, specializing in JavaScript and React. I focus on best practices, code quality, user experience and effective collaboration with cross-functional teams. I am committed to innovation and constantly explore new technologies to deliver solutions that exceed expectations.
 
 
 ## 🌐 Socials:
